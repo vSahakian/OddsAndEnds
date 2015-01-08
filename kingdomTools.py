@@ -1,4 +1,3 @@
-#HELLO DIEGO#
 def kFault2xy(ffile,xyfile,csys):
     '''
     Converts a kingdom Photon XY ASCII output fault file into
